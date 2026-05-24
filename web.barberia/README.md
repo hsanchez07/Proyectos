@@ -16,16 +16,5 @@ Landing page moderna y responsive de una barbería premium desarrollada con HTML
 - CSS3
 - JavaScript
 
-## Capturas
-
-### Inicio
-![Inicio](screenshots/home.png)
-
-### Responsive móvil
-![Mobile](screenshots/mobile.png)
-
-### Servicios
-![Servicios](screenshots/services.png)
-
 ## Deploy
 Próximamente en Vercel.
