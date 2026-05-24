@@ -17,4 +17,4 @@ Landing page moderna y responsive de una barbería premium desarrollada con HTML
 - JavaScript
 
 ## Deploy
-Próximamente en Vercel.
+https://proyectos-spwh.vercel.app/
